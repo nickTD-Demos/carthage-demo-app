@@ -1,2 +1,2 @@
 github "nickTD-Demos/carthage-demo-network-sdk-dependency-one" ~> 2.0.0 # accepts network sdk ~> 2.0.0
-github "nickTD-Demos/carthage-demo-network-sdk" ~> 2.0.0
+github "nickTD-Demos/carthage-demo-network-sdk" ~> 3.0.0
